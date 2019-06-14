@@ -6,7 +6,7 @@ This package provides accessory functions, classes and decorations to be used wi
 
 Using `pip`:
 
-    pip install -e '
+    pip install -e 'git+https://github.com/gatfieldlab/tools_accessories#egg=gatlab-tools-accessories'
     
 From `setup.py` with `setuptools`:
 
