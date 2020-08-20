@@ -22,9 +22,9 @@ __status__ = "Development"
 #
 @contextmanager
 def measureTime(title, handle=sys.stderr, unit='second'):
-    t1 = time.clock()
+    t1 = time.process_time()
     yield
-    t2 = time.clock()
+    t2 = time.process_time()
     delta = t2 - t1
     if unit == 'minute':
         delta = delta / 60
