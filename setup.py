@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='gatlab-tools-accessories',
-    version='0.1.0',
+    version='0.1.1',
     description='Accessory functions, classes and decorations to be '
                 'used with various basic data types, packages',
 #   url='NA',

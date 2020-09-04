@@ -9,9 +9,9 @@ import time
 import sys
 
 __author__ = "Bulak Arpat"
-__copyright__ = "Copyright 2017, Bulak Arpat"
+__copyright__ = "Copyright 2017-2020, Bulak Arpat"
 __license__ = "GPLv3"
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __maintainer__ = "Bulak Arpat"
 __email__ = "Bulak.Arpat@unil.ch"
 __status__ = "Development"
